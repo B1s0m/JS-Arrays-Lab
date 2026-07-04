@@ -138,8 +138,9 @@ Complete Exercise 10 in the space below:
 */
 
 
-const hasSoup =foods.includes("foods");
-console.log('Exercise 10 result:', "soup");
+const hasSoup =foods.includes("soup");
+console.log('Exercise 10 result:', hasSoup );
+
 
 /*
 Exercise 11: Odd numbers from an array
